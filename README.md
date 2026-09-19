@@ -1,3 +1,6 @@
+####网页地址
+https://pdf-rag-assistant-tvfxdtdxkj8boxbzjjqigd.streamlit.app/
+
 # pdf-rag-assistant
 基于 LangChain + Chroma + 智谱AI 的 PDF 知识库问答器
 # PDF 个人知识库问答器
